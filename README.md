@@ -1,2 +1,2 @@
-# Shekhar-sCSE111
+# ShekharCSE111
 This is my first Git repository
